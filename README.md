@@ -215,10 +215,10 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 
 | Name | Role |
 | --- | --- |
-| Poon Wai Shen | CEO |
-| Cheong Choon Sing | COO |
-| Chew Hao Ran | CFO |
-| Sing Steven | CMO |
+| Poon Wai Shen | Chief Executive Officer (CEO) |
+| Cheong Choon Sing | Chief Operating Officer (COO) |
+| Chew Hao Ran | Chief Financial Officer (CFO) |
+| Sing Steven | Chief Marketing Officer (CMO) |
 | Yap Tat Cong | Operation Manager |
 
 ---
