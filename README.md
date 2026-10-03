@@ -17,7 +17,7 @@
 5. [Our Strategy](#-our-strategy)
 6. [Charts & Analysis](#-charts--analysis)
 7. [Production & Operations](#-production--operations)
-8. [Game Screenshots](#-game-screenshots)
+8. [Forecasting](#-forecasting)
 9. [Key Lessons](#-key-lessons)
 10. [Team](#-team)
 
@@ -188,7 +188,7 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 
 ---
 
-## 🖼️ Game Screenshots
+## 🖼️ Forecasting
 
 | Demand Forecasting |
 | --- |
