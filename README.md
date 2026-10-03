@@ -168,11 +168,6 @@ Most teams set prices by feel. We used **multivariate linear regression** in Pyt
 3. **Better decisions on cost.** Knowing that OpEx drives price pushed us to right-size the warehouse around Day 48.
 4. **Faster, repeatable decisions.** With only about an hour of real play for 80 days, a trained model let us respond quickly.
 
-#### <ins>Limitations and what we would improve</ins>
-- The model was trained on a **small dataset**, so it is a guide, not a guarantee.
-- Linear regression assumes straight-line relationships. Real markets and competitor bids can behave differently.
-- Next time we would add more features (competitor prices, demand forecast, season or holiday flags) and try other models such as Random Forest.
-
 ---
 
 ## 📈 Charts & Analysis
