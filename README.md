@@ -138,19 +138,19 @@ The graded round was much harsher than the warm-up:
 
 ## 📈 Charts & Analysis
 
-### <ins>Daily Accumulated Net Profit</ins>
+### <ins>Daily Accumulated Revenue</ins>
 
 Revenue grew steadily on a cumulative basis. Growth was slow between **Day 19 and Day 38** (a temporary bottleneck), then accelerated strongly and pushed net profit positive.
 
 ![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Daily%20Accumulated%20Revenue.png?raw=true)
 
-### Daily Accumulated Net Profit
+### <ins>Daily Accumulated Net Profit</ins>
 
 The business reached **break-even on Day 41**. After that it generated consistent positive net profit and cash flow.
 
 ![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Daily%20Accumulated%20Net%20Profit.png?raw=true)
 
-### Operating Expenses
+### <ins>Operating Expenses</ins>
 
 The Ipoh warehouse was the largest cost driver. Costs rose through the early period, then **stabilised around Day 48** after we right-sized warehouse operations.
 
@@ -173,13 +173,14 @@ The Ipoh warehouse was the largest cost driver. Costs rose through the early per
 
 **Production:** Carrot Juice 2,560,010 · Coconut Juice 2,190,010 · Mango Juice 1,790,010
 
-### Accumulated Production
+
+### <ins>Accumulated Production</ins>
 
 Output rose steadily to meet growing B2B demand.
 
 ![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Accumulated%20Production.png?raw=true)
 
-### Late B2B Shipments
+### <ins>Late B2B Shipments</ins>
 
 The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fixed it by adding machines and expanding warehouse capacity and workforce, after which late shipments stayed stable until Day 80.
 
