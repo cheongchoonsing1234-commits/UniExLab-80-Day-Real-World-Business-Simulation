@@ -142,19 +142,19 @@ The graded round was much harsher than the warm-up:
 
 Revenue grew steadily on a cumulative basis. Growth was slow between **Day 19 and Day 38** (a temporary bottleneck), then accelerated strongly and pushed net profit positive.
 
-![Daily Accumulated Revenue](assets/chart-revenue.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Daily%20Accumulated%20Revenue.png?raw=true)
 
 ### Daily Accumulated Net Profit
 
 The business reached **break-even on Day 41**. After that it generated consistent positive net profit and cash flow.
 
-![Daily Accumulated Net Profit](assets/chart-net-profit.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Daily%20Accumulated%20Net%20Profit.png?raw=true)
 
 ### Operating Expenses
 
 The Ipoh warehouse was the largest cost driver. Costs rose through the early period, then **stabilised around Day 48** after we right-sized warehouse operations.
 
-![Operating Expenses](assets/chart-opex.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Operating%20Expenses.png?raw=true)
 
 ---
 
@@ -177,13 +177,14 @@ The Ipoh warehouse was the largest cost driver. Costs rose through the early per
 
 Output rose steadily to meet growing B2B demand.
 
-![Accumulated Production](assets/chart-production.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Accumulated%20Production.png?raw=true)
 
 ### Late B2B Shipments
 
 The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fixed it by adding machines and expanding warehouse capacity and workforce, after which late shipments stayed stable until Day 80.
 
-![Late B2B Shipments](assets/chart-late-shipments.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Late%20B2B%20Shipments.png?raw=true)
+
 
 ---
 
