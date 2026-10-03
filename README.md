@@ -101,7 +101,7 @@ The graded round was much harsher than the warm-up:
 | Delinquent Payouts | **0** |
 | Credit Rating | **AAA** |
 
-![Result at Day 80](assets/result-day80.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Result.jpg?raw=true)
 
 ---
 
