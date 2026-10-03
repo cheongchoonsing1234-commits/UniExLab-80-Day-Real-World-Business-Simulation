@@ -133,6 +133,45 @@ The graded round was much harsher than the warm-up:
 | **Promotion** | Multi-platform digital campaigns |
 | **Place** | Expanded first in highest-demand locations, then added more |
 
+### 🤖 Our Biggest Strategy: Machine Learning (Linear Regression)
+
+Most teams set prices by feel. We used **multivariate linear regression** in Python (scikit-learn) to predict the right **goods price (MYR)** from the numbers the simulation gave us, so our pricing decisions were based on data.
+
+![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Linear%20Regression.jpg?raw=true)
+
+#### <ins>What we built</ins>
+- **Target (y):** unit price of goods (`goods_price`)
+- **Features (X):**
+
+| Feature | Why it matters |
+|---|---|
+| `fruit_cost` | Raw material cost is the base of unit cost |
+| `opex_myr` | Operating expenses must be recovered through price |
+| `space_utilization_pct` | Fuller warehouse and store space means higher fixed cost per unit |
+| `b2b_wholesale_units` | B2B volume changes how much we can produce and what we can charge |
+| `inflation_active` | Flag (0/1) for the inflation and disaster periods |
+
+- Data from the simulation at different days (Day 1 to Day 80) was loaded with `pandas` and split into training and test sets (`train_test_split`).
+- We trained a `LinearRegression` model and checked it with **MSE** and **R²**.
+- We plotted **Actual vs Predicted price** and a **feature importance** chart to see which factors drive price most.
+
+#### <ins>What was important</ins>
+- **Operating expenses (`opex_myr`) had the strongest influence on price** in our model. This matched the simulation, where very high rent and warehouse costs were the biggest pressure on margins.
+- **Space utilisation and B2B volume came next.** Using space well and winning B2B deals mattered for cost per unit.
+- **Fruit cost and the inflation flag had a smaller effect.** Costs rose in the storm, but our operating structure mattered more than raw material swings.
+- The **Actual vs Predicted** chart followed the regression line closely, so the model was good enough to guide pricing decisions.
+
+#### <ins>Why it helped us succeed</ins>
+1. **Data-driven pricing.** We set prices from the model and tested them against results, instead of guessing.
+2. **Protected margins in the storm.** The model showed how costs and inflation feed into price, so we avoided pricing too low or raising prices so much that price-sensitive customers walked away.
+3. **Better decisions on cost.** Knowing that OpEx drives price pushed us to right-size the warehouse around Day 48.
+4. **Faster, repeatable decisions.** With only about an hour of real play for 80 days, a trained model let us respond quickly.
+
+#### <ins>Limitations and what we would improve</ins>
+- The model was trained on a **small dataset**, so it is a guide, not a guarantee.
+- Linear regression assumes straight-line relationships. Real markets and competitor bids can behave differently.
+- Next time we would add more features (competitor prices, demand forecast, season or holiday flags) and try other models such as Random Forest.
+
 ---
 
 ## 📈 Charts & Analysis
