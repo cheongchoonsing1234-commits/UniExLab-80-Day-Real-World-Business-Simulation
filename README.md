@@ -133,6 +133,7 @@ The graded round was much harsher than the warm-up:
 | **Promotion** | Multi-platform digital campaigns |
 | **Place** | Expanded first in highest-demand locations, then added more |
 
+
 ### 🤖 Our Biggest Strategy: Machine Learning (Linear Regression)
 
 Most teams set prices by feel. We used **multivariate linear regression** in Python (scikit-learn) to predict the right **goods price (MYR)** from the numbers the simulation gave us, so our pricing decisions were based on data.
