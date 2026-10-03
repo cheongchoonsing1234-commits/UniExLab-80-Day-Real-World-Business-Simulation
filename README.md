@@ -190,11 +190,9 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 
 ## 🖼️ Game Screenshots
 
-| Dashboard | Demand Forecasting |
-| --- | --- |
-| ![Dashboard](assets/screenshot-dashboard.png) | ![Forecasting](assets/screenshot-forecasting.png) |
-
-*(Add more screenshots in `assets/` and link them here.)*
+| Demand Forecasting |
+| --- |
+| ![image alt]((https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Forecast.jpg?raw=true)) |
 
 ---
 
