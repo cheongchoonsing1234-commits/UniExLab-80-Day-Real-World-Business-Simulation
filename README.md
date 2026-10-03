@@ -2,7 +2,7 @@
 
 ### Champion — Team 47 · Six Seven Co. Ltd.
 
-*Universiti Sains Malaysia (USM) · ATW 393E · June 2026*
+*Universiti Sains Malaysia (USM) · ATW 393E · April 2026 - June 2026*
 
 ![Result](https://img.shields.io/badge/Result-Champion-gold?style=for-the-badge) ![Net Profit](https://img.shields.io/badge/Net%20Profit-RM%2059.9M-brightgreen?style=for-the-badge) ![Credit](https://img.shields.io/badge/Credit%20Rating-AAA-blue?style=for-the-badge) ![Delinquent](https://img.shields.io/badge/Delinquent%20Payouts-0-success?style=for-the-badge)
 
