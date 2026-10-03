@@ -138,7 +138,7 @@ The graded round was much harsher than the warm-up:
 
 ## 📈 Charts & Analysis
 
-### Daily Accumulated Revenue
+### <ins>Daily Accumulated Net Profit</ins>
 
 Revenue grew steadily on a cumulative basis. Growth was slow between **Day 19 and Day 38** (a temporary bottleneck), then accelerated strongly and pushed net profit positive.
 
