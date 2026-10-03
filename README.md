@@ -249,7 +249,3 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 
 - **[UniExLab](https://uniexlab.com/)** by Tunas Digital Sdn Bhd for the simulation platform
 - **Universiti Sains Malaysia (USM)** and our facilitator **Rex Lai**
-
----
-
-⭐ If you find this useful, give the repo a star! ⭐
