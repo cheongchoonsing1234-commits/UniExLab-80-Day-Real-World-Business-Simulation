@@ -20,7 +20,6 @@
 8. [Game Screenshots](#-game-screenshots)
 9. [Key Lessons](#-key-lessons)
 10. [Team](#-team)
-11. [Repository Structure](#-repository-structure)
 
 ---
 
@@ -221,27 +220,6 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 | Chew Hao Ran | CFO |
 | Sing Steven | CMO |
 | Yap Tat Cong | Operation Manager |
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── README.md
-├── assets/
-│   ├── banner.png
-│   ├── result-day80.png
-│   ├── chart-revenue.png
-│   ├── chart-net-profit.png
-│   ├── chart-opex.png
-│   ├── chart-production.png
-│   ├── chart-late-shipments.png
-│   ├── screenshot-dashboard.png
-│   └── screenshot-forecasting.png
-└── docs/
-    └── integrated-report.pdf
-```
 
 ---
 
