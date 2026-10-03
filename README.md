@@ -192,7 +192,7 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 
 | Demand Forecasting |
 | --- |
-| ![image alt]((https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Forecast.jpg?raw=true)) |
+| ![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Forecast.jpg?raw=true) |
 
 ---
 
