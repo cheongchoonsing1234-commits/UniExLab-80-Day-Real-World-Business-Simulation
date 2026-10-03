@@ -194,6 +194,15 @@ The first late shipment came on **Day 6** and peaked at **44 by Day 25**. We fix
 | --- |
 | ![image alt](https://github.com/cheongchoonsing1234-commits/UniExLab-80-Day-Real-World-Business-Simulation/blob/main/Images/Forecast.jpg?raw=true) |
 
+This is the Forecast chart in UniExLab. It shows the expected daily demand for each city or store over several days. Each coloured line is one location, and hovering over a day shows the forecast units for every store.
+
+We used it to plan ahead instead of guessing:
+- **Stock:** we checked which stores would sell more and moved stock there, so shelves did not run empty.
+- **Production:** we matched production and raw material purchases to the demand trend.
+- **Procurement:** we bought before demand peaks, when prices were lower, instead of paying more at the last minute.
+
+Good forecasting was a big reason we kept stockouts low and costs under control.
+
 ---
 
 ## 💡 Key Lessons
